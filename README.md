@@ -5,7 +5,7 @@
 Repositório dedicado ao projeto de monitoramento de cápsula espacial desenvolvido para a Global Solution da FIAP (Ciência da Computação). O circuito utiliza um Arduino para ler sensores ambientais, tratar alertas de criticidade e exibir os status operacionais em um display local.
 
 ## Links do Projeto
-* **Tinkercad:** [Insira aqui o link de convite que você copiou]
+* **Tinkercad:** https://www.tinkercad.com/things/bprOwoASfgT-gs/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lsLQO_Q2viQ2ctljdqKBeprIqPT-m_HCy4cjdscY_qY
 * **Vídeo de Demonstração:** https://youtu.be/qKu91US929c
 
 ## Componentes Utilizados
